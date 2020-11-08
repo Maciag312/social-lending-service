@@ -1,0 +1,17 @@
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/api/RestConfig.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/JpaAuctionRepositoryImpl.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/AuctionRepository.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/ExampleController.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/BorrowerRepository.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/JpaBorrowerRepositoryImpl.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/BorrowerService.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/Application.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/api/BorrowerController.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/AuctionTuple.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/JpaDBConfiguration.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/BorrowerTuple.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/api/dto/AuctionDTO.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/Auction.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/Borrower.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/domain/borrower/BorrowerServiceImpl.java
+/Users/bartekmaciag/Documents/HLTech/social-lending-service/src/main/java/pl/fintech/metissociallending/metissociallendingservice/infrastructure/repository/swagger/SpringFoxConfig.java
